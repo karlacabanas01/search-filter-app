@@ -6,7 +6,7 @@ const App: React.FC = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Search Filter App</h1>
+        <h1>Search Pokémon</h1>
       </header>
       <FilteredList />
     </div>
