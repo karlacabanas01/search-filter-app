@@ -25,7 +25,7 @@ li {
   border-bottom: 1px solid #ccc;
 }
 h1 {
-  color: yellow; /* Texto azul */
+  color: yellow;
   text-shadow: 2px 2px 0 blue, -2px -2px 0 blue, 2px -2px 0 blue,
     -2px 2px 0 blue, 2px 0 0 blue, 0 2px 0 blue, -2px 0 0 blue, 0 -2px 0 blue,
     1px 1px 0 blue, -1px -1px 0 blue, 1px -1px 0 blue, -1px 1px 0 blue;

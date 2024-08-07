@@ -174,8 +174,8 @@ const FilteredList: React.FC = () => {
         onChange={handleSearch}
       />
       <ul>
-        {filteredPokemon.map((poke, index) => (
-          <li key={index}>{poke}</li>
+        {filteredPokemon.map((poke) => (
+          <li key={poke}>{poke}</li>
         ))}
       </ul>
     </div>
